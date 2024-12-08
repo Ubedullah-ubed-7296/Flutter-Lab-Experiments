@@ -1,6 +1,6 @@
 # Flutter-Lab-Experiments
-1. a) Install Flutter and Dart SDK.
-1. b) Write a simple Dart program to understand the language basics.
+1a) Install Flutter and Dart SDK.
+1b) Write a simple Dart program to understand the language basics.
 2. a) Explore various Flutter widgets (Text, Image, Container, etc.).
 2. b) Implement different layout structures using Row, Column, and Stack widgets.
 3. a) Design a responsive UI that adapts to different screen sizes.
