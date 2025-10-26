@@ -1,4 +1,5 @@
 # Flutter-Lab-Experiments
+```
 1. a) Install Flutter and Dart SDK.
 b) Write a simple Dart program to understand the language basics.
 2. a) Explore various Flutter widgets (Text, Image, Container, etc.).
@@ -19,3 +20,4 @@ b) Experiment with different types of animations (fade, slide, etc.).
 b) Display the fetched data in a meaningful way in the UI.
 10. a) Write unit tests for UI components.
 b) Use Flutter's debugging tools to identify and fix issues.
+```
